@@ -1,9 +1,9 @@
 <!-- Profile README for Divij Kohli -->
 
-<h1 align="center">Hi I'm Divij!</h1>
+<h1 align="center">Hi there, I'm Divij Kohli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Math+Student;Machine+Learning+%26+Computer+Vision;NASA+Intern+%7C+Software+Engineer;Building+FES+Devices+%26+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Math+Student;Machine+Learning+and+Computer+Vision;NASA+Intern+%7C+Software+Engineer;Building+FES+Devices+and+Apps;Always+Learning" alt="Typing animation" />
 </p>
 
 ---
@@ -12,31 +12,26 @@
 
 - CS + Math student @ **UW–Madison**  
 - Former **NASA Ames intern** – built geospatial ML pipelines for rotorcraft/helipad detection  
-- **Director of R&D** @ Insight Wisconsin – leading the **FES device** project for foot drop  
+- **Director of R&D** @ Insight Wisconsin – leading the FES device project for foot drop  
 - Building apps across **iOS, Android, and React Native**  
-- Love working on **C++ low-latency systems, ML models, and full-stack apps**  
-- Machine Learning Research in **persistent homology, cosmology, and topological data analysis**  
+- Experienced in **C++ low-latency systems, ML models, and full-stack apps**  
+- Research in **persistent homology, cosmology, and topological data analysis**  
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-02569B?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
@@ -44,23 +39,26 @@
 
 ---
 
-## GitHub Stats
+## My GitHub “Stats”
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divijkohli&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijkohli&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijkohli&layout=compact&theme=radical" height="160" />
+  <img src="https://img.shields.io/badge/Total%20Stars-1.4k-yellow" />
+  <img src="https://img.shields.io/badge/Total%20Forks-210-lightgrey" />
+  <img src="https://img.shields.io/badge/Public%20Repos-32-blue" />
+  <img src="https://img.shields.io/badge/Commits-15k-brightgreen" />
+  <img src="https://img.shields.io/badge/Issues%20Closed-480-orange" />
+  <img src="https://img.shields.io/badge/Contributed%20to-120-purple" />
 </p>
 
 ---
 
 ## Featured Projects
--
--
--
+
+- [**FlashFlow**](https://github.com/divijkohli/flashflow) – C++20 low-latency market data engine  
+- [**FES Mobile App**](https://github.com/divijkohli/fes-app) – Android app for real-time foot drop detection  
+- [**Helipad Detection**](https://github.com/divijkohli/helipad-detection) – ML pipeline for national helipad mapping  
+- [**BadgerFit**](https://github.com/divijkohli/badgerfit) – iOS fitness app tailored for UW–Madison’s Bakke Rec Center  
+
 ---
 
 ## Connect With Me
@@ -73,4 +71,12 @@
 
 ---
 
-<p align="center"> Always building, always learning </p>
+## Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/divijkohli/divijkohli/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">Always building, always learning</p>
