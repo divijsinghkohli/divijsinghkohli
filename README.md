@@ -42,10 +42,10 @@
 ## My GitHub “Stats”
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-1.4k-yellow" />
-  <img src="https://img.shields.io/badge/Total%20Forks-210-lightgrey" />
-  <img src="https://img.shields.io/badge/Public%20Repos-32-blue" />
-  <img src="https://img.shields.io/badge/Commits-15k-brightgreen" />
+  <img src="https://img.shields.io/badge/Total%20Stars-104-yellow" />
+  <img src="https://img.shields.io/badge/Total%20Forks-92-lightgrey" />
+  <img src="https://img.shields.io/badge/Public%20Repos-8-blue" />
+  <img src="https://img.shields.io/badge/Commits-2.2k-brightgreen" />
   <img src="https://img.shields.io/badge/Issues%20Closed-480-orange" />
   <img src="https://img.shields.io/badge/Contributed%20to-120-purple" />
 </p>
