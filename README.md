@@ -71,11 +71,4 @@
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/divijsinghkohli/divijsinghkohli/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
----
-
 <p align="center">Always building, always learning</p>
