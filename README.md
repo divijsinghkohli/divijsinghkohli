@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 CS + Math student @ **UW–Madison**  
-- 🛰️ Former **NASA Ames intern** – built geospatial ML pipelines for rotorcraft/helipad detection  
-- ⚡ **Director of R&D** @ Insight Wisconsin – leading the **FES device** project for foot drop  
-- 📱 Building apps across **iOS, Android, and React Native**  
-- 💻 Love working on **C++ low-latency systems, ML models, and full-stack apps**  
-- 📊 Research in **persistent homology, cosmology, and topological data analysis**  
+- CS + Math student @ **UW–Madison**  
+- Former **NASA Ames intern** – built geospatial ML pipelines for rotorcraft/helipad detection  
+- **Director of R&D** @ Insight Wisconsin – leading the **FES device** project for foot drop  
+- Building apps across **iOS, Android, and React Native**  
+- Love working on **C++ low-latency systems, ML models, and full-stack apps**  
+- Machine Learning Research in **persistent homology, cosmology, and topological data analysis**  
 
 ---
 
