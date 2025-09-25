@@ -1,6 +1,6 @@
 <!-- Profile README for Divij Kohli -->
 
-<h1 align="center">Hi there, I'm Divij Kohli</h1>
+<h1 align="center">Hi I'm Divij!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Math+Student;Machine+Learning+%26+Computer+Vision;NASA+Intern+%7C+Software+Engineer;Building+FES+Devices+%26+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
