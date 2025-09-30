@@ -12,11 +12,12 @@
 
 - CS + Math student @ **UW–Madison**  
 - Former **NASA Ames intern** – built geospatial ML pipelines for rotorcraft/helipad detection  
-- **Director of R&D** @ Insight Wisconsin – leading the FES device project for foot drop  
-- Building apps across **iOS, Android, and React Native**  
+- **Lead SWE** @ Insight Wisconsin – leading the FES device project for foot drop
+- **SWE** @ Wisconsin Autonomous - building end to end ML models in Cpp for autonomous vehicles
+- **ML Researcher** @ UW Phys Dept - ml solutions => persistent homology => topological data analysis => insights into mechanical systems / quantum gravity
 - Experienced in **C++ low-latency systems, ML models, and full-stack apps**  
-- Research in **persistent homology, cosmology, and topological data analysis**  
-
+- **Bad Cook** - But I'm getting better day by day (I think)
+  
 ---
 
 ## Tech Stack
