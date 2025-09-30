@@ -52,12 +52,9 @@
 
 ---
 
-## Featured Projects
+## Check Out My Latest Project!
 
-- [**FlashFlow**](https://github.com/divijkohli/flashflow) – C++20 low-latency market data engine  
-- [**FES Mobile App**](https://github.com/divijkohli/fes-app) – Android app for real-time foot drop detection  
-- [**Helipad Detection**](https://github.com/divijkohli/helipad-detection) – ML pipeline for national helipad mapping  
-- [**BadgerFit**](https://github.com/divijkohli/badgerfit) – iOS fitness app tailored for UW–Madison’s Bakke Rec Center  
+- [**Badgerpool**](https://github.com/divijsinghkohli/badgerpool) – Reimagined Ridesharing in Madison, WI 
 
 ---
 
