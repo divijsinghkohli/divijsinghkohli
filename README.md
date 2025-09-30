@@ -52,9 +52,10 @@
 
 ---
 
-## Check Out My Latest Project!
+## Check Out My Latest Projects!
 
-- [**Badgerpool**](https://github.com/divijsinghkohli/badgerpool) – Reimagined Ridesharing in Madison, WI 
+- [**Badgerpool**](https://github.com/divijsinghkohli/badgerpool) – Reimagined Ridesharing in Madison, WI
+- [**Ecoscope**](https://github.com/divijsinghkohli/Ecoscope) – AI Powered ESG Risk Analysis for Fortune 500 Companies
 
 ---
 
