@@ -55,7 +55,7 @@
 
 ## Check Out My Latest Projects!
 
-- [**Maxsys**](https:maxsys.app) – LeetCode for System Design
+- [**Maxsys**](https://maxsys.app) – LeetCode for System Design
 - [**Badgerpool**](https://github.com/divijsinghkohli/badgerpool) – Reimagined Ridesharing in Madison, WI
 - [**Ecoscope**](https://github.com/divijsinghkohli/Ecoscope) – AI Powered ESG Risk Analysis for Fortune 500 Companies
 
